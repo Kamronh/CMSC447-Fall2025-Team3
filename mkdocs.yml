@@ -1,8 +1,7 @@
 site_name: UMBC Pre-Transfer Advising 
 
 nav:
-  - 'Home': 'index.md'
-  - 'Document Generator': 'generator.html' # Add this line
+  - 'Document Generator': 'generator.html' 
   - 'Guides':
       - 'How to Install': 'guides/installation.md'
       - 'How to Use': 'guides/usage.md'
