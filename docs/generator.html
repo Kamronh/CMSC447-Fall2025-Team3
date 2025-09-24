@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document Generator</title>
+</head>
+<body>
+    <h1>Clause Selector</h1>
+    <p>Select the clauses you want to include in your document.</p>
+
+    <div id="clause-options">
+        <div>
+            <input type="checkbox" id="Introduction Paragraph C/P" class="clause-checkbox" value=", many of the courses you have completed thus far will count towards the completion of the (insert program here)  program at UMBC. On the pages above, you will see courses highlighted and on the second page courses listed in green or black font. The courses listed in green and highlighted in bright yellow are courses that you have already completed, the light yellow are courses in progress, and the courses in black are those which still need to be completed.  Please note, these recommendations are based on current course equivalencies. Additionally, please keep in mind that this is an unofficial evaluation of the credits you have completed thus far. An official evaluation will be completed upon your admittance to the university. On the unofficial evaluation, courses listed in red are UMBC course equivalents. If a course is in parentheses, it will not be applied towards your degree requirements at UMBC.
+On the pages above, you will see courses which have been highlighted. These highlighted courses are courses that you have already completed, whether at UMBC or another institution. If a course is in parenthesis, it will not be applied towards your degree requirements at UMBC.">
+            <label for="Introduction Paragraph C/P">Introduction Paragraph C/P</label>
+        </div>
+        <div> 
+            <input type="checkbox" id="Course Recommendations Paragraph C/P" class="clause-checkbox" value="When planning to transfer, I generally recommend taking courses required for the first two years of the program you are interested in. On the page above, you will find UMBC courses on the left, and their community college equivalents on the right. I recommend working on classes listed in black such as: 
+As you continue to take courses, please keep in mind that grades of C or higher are required for any major course to apply towards a bachelor's degree at UMBC. Courses for which grades of D are earned will not count towards any major requirement. 
+Or 
+As you take courses, please keep in mind that grades of C or higher are required for any course to apply towards a bachelor's degree at UMBC. This policy excludes the gateway requirements for which higher grades are required. More information about the gateway requirements can be found below. ">
+            <label for="Course Recommendations Paragraph C/P">Course Recommendations Paragraph C/P</label>
+        </div>
+        <div>
+            <input type="checkbox" id="Repeat Policy Blurb" class="clause-checkbox" value="Please also keep in mind that our college has a strict course repeat policy and students are only allowed two attempts in any course required for the major or required to progress in the major. This means for any Math, Science, or major related class, a student has only two attempts to earn the required grade. This policy includes transfer credits and courses for which grades of W have been given.">
+            <label for="Repeat Policy Blurb">Repeat Policy Blurb</label>
+        </div>
+        <div>
+            <input type="checkbox" id="Language Requirement Blurb" class="clause-checkbox" value="Another requirement that you can continue to work on while at (Insert CC) is your language requirement. If you have completed 4 years of a language in high school, you can submit your transcript to have the requirement waived. Otherwise, in order to complete your language requirement at UMBC, you will need to take a language course to the intermediate level. There are a few other ways you can take care of your language requirement. I have included links on this requirement below but would be happy to discuss it further with you should you have more questions.">
+            <label for="Language Requirement Blurb">Language Requirement Blurb</label>
+        </div>
+    </div>
+
+    <br>
+
+    <button id="generate-btn">Generate Document</button>
+
+    <hr>
+
+    <h2>Generated Document:</h2>
+    <textarea id="output-document" rows="30" cols="160" readonly></textarea>
+
+    <script src="js/generator.js"></script>
+</body>
+</html>
