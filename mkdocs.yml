@@ -1,0 +1,7 @@
+site_name: UMBC Pre-Transfer Advising 
+
+nav:
+  - 'Document Generator': 'generator.html' 
+  - 'Guides':
+      - 'How to Install': 'guides/installation.md'
+      - 'How to Use': 'guides/usage.md'
