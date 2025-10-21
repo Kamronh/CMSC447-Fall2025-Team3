@@ -2,7 +2,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Get references to the button, output textarea, and all checkboxes
     const generateBtn = document.getElementById('generate-btn');
-    const outputDocument = document.getElementById('output-document');
+    
+    // --- FIX 1 & 2 ---
+    // 1. Use the correct ID: 'output-content'
+    // 2. Use this variable name (outputDiv) consistently
+    const outputDiv = document.getElementById('output-content'); 
+    
     const checkboxes = document.querySelectorAll('.clause-checkbox');
 
     // Add a 'click' event listener to the button
@@ -15,14 +20,19 @@ document.addEventListener('DOMContentLoaded', () => {
         checkboxes.forEach(checkbox => {
             // If a checkbox is checked, add its 'value' attribute to our array
             if (checkbox.checked) {
-                selectedClauses.push(checkbox.value);
+                selectedClauses.push(`<p>${checkbox.value}</p>`);
             }
         });
 
-        // Join the array of clauses into a single string, separated by two new lines
-        const finalText = selectedClauses.join('\n\n');
-
-        // Set the value of the output textarea to our final text
-        outputDocument.value = finalText;
+        // If no clauses were selected, show the default message
+        if (selectedClauses.length === 0) {
+            // Use the correct variable name: outputDiv
+            outputDiv.innerHTML = '<p>Select topics from the left panel and click "Generate Document" to create advisor guide content.</p>';
+        } else {
+            // Otherwise, join the paragraphs and set them as the HTML of the output div
+            const finalText = selectedClauses.join('');
+            // Use the correct variable name: outputDiv
+            outputDiv.innerHTML = finalText;
+        }
     });
 });
