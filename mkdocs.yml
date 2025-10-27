@@ -5,12 +5,11 @@ theme:
   palette:
     # This sets the dark mode background
     scheme: slate
-    # This sets the primary color (like the nav bar) to black
+    # This sets the primary color to black
     primary: black
-    # This sets the accent color to yellow/gold to match your design
+    # This sets the accent color to yellow/gold for highlights
     accent: yellow
   features:
-    # This creates the tab-like navigation bar from your mockup
     - navigation.tabs
 
 nav:
