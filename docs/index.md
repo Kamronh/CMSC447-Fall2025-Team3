@@ -109,6 +109,68 @@ UMBC has so much to offer. Life on the UMBC Campus can be whatever you make it.
 Explore recent College of Engineering and Information Technology (COEIT) news highlights on the COEIT News Archives.">
             <label for="Last Paragraph">Last Paragraph</label>
         </div>
+	<div>
+		<input type="checkbox" id = "GEP & University Requirements" class="clause-checkbox" value="General Education/University Requirement Information ****************** University Degree Requirements: Minimum Upper-level Credits: Without exception, at least 45 of the minimum 120 credits required for 
+graduation must be in UMBC courses numbered at the 300-level or above or their equivalents. 
+Minimum Resident Credits: Without exception, students must complete at least 30 credits of coursework at UMBC (referred to as resident credit) to receive a UMBC degree. Of the 30 resident credits, 15 must be upper-level (courses numbered at the 300-level or above). 
+
+Writing Intensive Course (WI): Without exception, students must complete one writing intensive course; a designated WI course may count for the major or a distribution requirement, or it may be taken as an elective. The WI course must be completed at UMBC; transfer courses may not be used to fulfill this requirement.
+
+General Education Requirements: To fulfill general education requirements, students will complete courses distributed across six broad areas of academic inquiry: English Composition (ENGL 100), Mathematics (1 course), Arts and Humanities (3 courses), Social Science (3 courses), Sciences (1 w/lab, 1 w/o lab), Language* and Culture (1 course for BS, 2 for BA)
+
+All courses used to satisfy general education requirements must be completed with a "C" or better. Courses taken on a P/F or S/U basis may not be applied to general education requirements. No one course may be used to satisfy more than one area. 
+
+No more than three courses from the same discipline may be used throughout the general education program.
+
+Language Requirement: The language requirement consists of completion of a foreign language through the 201 level or demonstrated proficiency at that level. Proficiency, the number of courses needed to complete the requirement, and course placement, are determined by previous experience as follows:
+completion of level 4 or higher of a language in high school (see table ) OR
+corresponding AP, IB or CLEP credit (see Appendix II, Undergraduate Catalog), OR
+completion of a language through the 201 level at a regionally accredited college/university
+For more information about the language requirement, you can visit the Department of Modern Languages, Linguistics, and Intercultural Communication (MLLI) page on 201 Proficiency and High School Language Levels.
+Students can receive the equivalency for 201 level proficiency to fulfill the GEP language requirement or the language component of the GDR, GER, or GFR by
+a)  	demonstrating successfully completed education in a second language or
+b) 	through examination.
+The equivalency application does not grant credits but rather recognizes completion of the L201 requirement. See details below.
+1.      International students and U.S. resident students proficient in a language other than English may receive equivalency for the 201-level proficiency requirement if they present documentation showing that:
+a)      they attended a secondary school (i.e., sixth grade or above) in which the language of instruction was not only English, or
+b)     they attended an English-speaking secondary school or a comprehensive bi or multi-lingual program accredited by a foreign government and have at least one year of successfully-completed education in a language other than English at that level. 
+You can check out the MLLI Policy on Foreign Language 201-level for international students and multi-lingual students to determine your most accurate language placement.
+
+">
+	</div>
+	<div>
+		<input type="checkbox" id="Extras" class="clause-checkbox" value=" *: Gateway Course
+SS & AH GEP: Social Science and Arts & Humanities General Education Program
+*These course equivalencies are based on current evaluations from ARTSYS (2025)
+">
+	</div>
+	<div>
+		<input type="checkbox" id="BTA Overview class="clause-checkbox" value="Business Technology Administration: 
+The Bachelor of Arts degree in Business Technology Administration (BTA) program trains students for management positions in the growing job field of Information Systems. This major is housed within UMBC’s Department of Information Systems. It is an interdisciplinary program developing practical knowledge for the integration of computers
+, organizational processes, and people into effective and efficient systems.
+
+The BTA program is designed for students who want a grounding in the development and use of office systems and computer-based technologies found in business, government, and nonprofit organizations. The BA degree is less technical in nature than the BS program and the focus of the courses is on using IT of different types to solve problems that arise in a business setting.
+
+Through a variety of courses such as human resources management, project management, business law, ethics, and operations management, students learn the skills to be successful managers, analysts and, administrators in an Information Systems organization. In addition, BTA students experience working with companies on projects that analyze systems and research solutions for implementation in small and large enterprises.
+
+Certificates
+
+Whichever program you choose, we offer a wide variety of undergraduate certificates to supplement your interests. From web development to MBA prep, certificates can help you supercharge your education. Certificates can only be earned in conjunction with majoring in one of our undergraduate programs. View all of our Certificate Programs.
+
+Accelerated Programs
+
+Accelerated programs, also called BS/MS programs, enable students to add a Bachelors AND Masters degree to their resume with only one additional year of study (on average). This saves you time and money. Information on our combined programs can be found here.
+
+Scholarships
+
+We believe IS students are among the best in the university, and we want to honor that high achievement. We offer several scholarships specifically for students studying Information Systems. Visit our Scholarships page to learn more.
+
+Research Opportunities
+
+UMBC is one of the few universities committed to undergraduate research, and the IS Department takes this mission seriously. For students interested in pursuing research, we have five main research areas: Artificial Intelligence and Knowledge Management, Data Science, Health Informatics, Human-Centered Computing, and Software Engineering. Check out our Undergraduate Research Opportunities.
+ 
+">
+	</div>
             <button id="generate-btn">Generate Document</button>
     </div>
     <div class="content-panel" id="generated-guide">
