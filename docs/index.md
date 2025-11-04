@@ -207,110 +207,79 @@ Explore the Occupational Outlook Handbook for specifics. We hope you become part
         <label for="Transfer Admissions">Transfer Admissions</label>
     </div>
     <div>
-    <input type="checkbox" id="Financial Aid" class="clause-checkbox" value= "Financial Aid
-UMBC offers a range of financial aid and payment options so that all students may benefit from a UMBC education. Students may apply for need-based financial aid using the Free Application for Federal Student Aid (FAFSA). Students may also be considered for general merit scholarships by meeting priority admissions application deadlines. For more information, please visit our Financial Aid and Scholarships Website.
-Submit/update your Free Application for Federal Student Aid (FAFSA) online or via the myStudentAid mobile app. 
-Be sure to add UMBC/school code 002105
-Need help submitting the FAFSA? Get help directly from the source.
--Financial aid eligibility is evaluated after university admission. Students are notified via email when their financial aid offer is available to view in myUMBC.
-Estimate your out-of-pocket expenses using our Cost Calculator tool.
-Apply for Scholarships:
-UMBC offers both need and merit-based aid for prospective freshmen and transfer students. Learn more about the scholarship opportunities available at UMBC here:
-Income Transfer Student Scholarships
-UMBC Scholarship Retriever 
-Outside Scholarships
-Scholars Programs
-Admissions Application (Common App) and college transcripts must be received by the priority deadline in order to be guaranteed consideration for merit-based scholarships.
-Our staff is available Monday-Friday 8:30AM-4:30PM. Feel free to contact our office with any questions you might have! Be sure to visit the rest of our website for more information that may meet your specific needs.
-Scholars Programs:
-UMBC’s Cyber Scholars Program is geared towards preparing the next generation of cybersecurity professionals in an increasingly digital age.  The program was launched through a generous grant from the Northrop Grumman Foundation and in partnership with the Center for Women in Technology (CWIT). Transfer Student Priority Deadline: March 1 for fall applicants and January 15 for spring applicants.
-T-SITE Scholars - The Transfer Scholars in Information Technology and Engineering  (T-SITE) program began in March of 2012. Funded by a second award from the National Science Foundation (NSF), this need-based scholarship supports new transfer students with scholarships of up to $8,000 per year based on financial eligibility on the FAFSA. Transfer Scholars also receive academic support through a variety of CWIT programs and services.
-Scholarship Details:
-Scholarships of up to $8,000 per year based on UMBC Financial Aid Office review
-Transfer Scholars must maintain a 3.0 GPA at UMBC.
-Required participation in CWIT community events focused on academic, professional, and leadership development.
-Women and underrepresented minorities are strongly encouraged to apply.
-T-SITE Scholar Experience:  
-T-SITE Scholars are part of the larger CWIT community of Scholars and Affiliates.  Academic success and professional development are achieved through a number of program elements. Members of the CWIT community are encouraged to live in the CWIT Living Learning Community in the residence halls.
-All T-SITE Scholars:
-Are assigned a faculty and peer mentor in their major;
-Explore career options, develop lifelong career management skills, and identify internships, and post-graduation jobs through professional development events and an assigned Industry mentor;
-Participate in a seminar specifically designed for transfer students;
-Meet regularly with a CWIT professional advisor to set goals and track individual progress;
-Develop leadership skills through involvement in student organizations and K-12 outreach.
-T-SITE Application for Fall cohort (Due March 1)">
+        <input type="checkbox" id="Financial Aid" class="clause-checkbox" value= "Financial Aid UMBC offers a range of financial aid and payment options so that all students may benefit from a UMBC education. Students may apply for need-based financial aid using the Free Application for Federal Student Aid (FAFSA). Students may also be considered for general merit scholarships by meeting priority admissions application deadlines. For more information, please visit our Financial Aid and Scholarships Website. Submit/update your Free Application for Federal Student Aid (FAFSA) online or via the myStudentAid mobile app. Be sure to add UMBC/school code 002105 Need help submitting the FAFSA? Get help directly from the source. -Financial aid eligibility is evaluated after university admission. Students are notified via email when their financial aid offer is available to view in myUMBC. Estimate your out-of-pocket expenses using our Cost Calculator tool. Apply for Scholarships: UMBC offers both need and merit-based aid for prospective freshmen and transfer students Learn more about the scholarship opportunities available at UMBC here: Income Transfer Student Scholarships UMBC Scholarship Retriever  Outside Scholarships Scholars Programs Admissions Application (Common App) and college transcripts must be received by the priority deadline in order to be guaranteed consideration for merit-based scholarships. Our staff is available Monday-Friday 8:30AM-4:30PM. Feel free to contact our office with any questions you might have! Be sure to visit the rest of our website for more information that may meet your specific needs. Scholars Programs: UMBC’s Cyber Scholars Program is geared towards preparing the next generation of cybersecurity professionals in an increasingly digital age.  The program was launched through a generous grant from the Northrop Grumman Foundation and in partnership with the Center for Women in Technology (CWIT). Transfer Student Priority Deadline: March 1 for fall applicants and January 15 for spring applicants. T-SITE Scholars - The Transfer Scholars in Information Technology and Engineering  (T-SITE) program began in March of 2012. Funded by a second award from the National Science Foundation (NSF), this need-based scholarship supports new transfer students with scholarships of up to $8,000 per year based on financial eligibility on the FAFSA. Transfer Scholars also receive academic support through a variety of CWIT programs and services. Scholarship Details: Scholarships of up to $8,000 per year based on UMBC Financial Aid Office review Transfer Scholars must maintain a 3.0 GPA at UMBC. Required participation in CWIT community events focused on academic, professional, and leadership development. Women and underrepresented minorities are strongly encouraged to apply. T-SITE Scholar Experience:   T-SITE Scholars are part of the larger CWIT community of Scholars and Affiliates.  Academic success and professional development are achieved through a number of program elements. Members of the CWIT community are encouraged to live in the CWIT Living Learning Community in the residence halls. All T-SITE Scholars: Are assigned a faculty and peer mentor in their major; Explore career options, develop lifelong career management skills, and identify internships, and post-graduation jobs through professional development events and an assigned Industry mentor; Participate in a seminar specifically designed for transfer students; Meet regularly with a CWIT professional advisor to set goals and track individual progress; Develop leadership skills through involvement in student organizations and K-12 outreach. T-SITE Application for Fall cohort (Due March 1)">
     <label for="Financial Aid">Financial Aid</label>
     </div>
     <div>
-    <input type="checkbox" id="Pre-Professional Programs" class="clause-checkbox" value= "">
+        <input type="checkbox" id="Pre-Professional Programs" class="clause-checkbox" value= "Pre-Professional Programs: Pre-Dental Hygiene, Pre-Nursing, Pre-Occupational Therapy, Pre-Pharmacy, Pre-Physical Therapy, Pre-Physician Assistant, Pre-Medicine, Pre-Dentistry, Pre-Veterinary or Pre-Optometry, Pre- Law UMBC offers allied health programs to prepare students for clinical training in Dental Hygiene, Nursing, Occupational Therapy, Pharmacy, Physical Therapy, and Physician Assistant. These programs involve two to four years of intensive study at UMBC. After completing 63 to 120 credits of required coursework and satisfying other requirements (which may include, shadowing experiences, volunteer work, patient contact hours, and scores on a national entrance examination), students apply to allied health programs in Maryland and throughout the United States. Because students who are planning to pursue admission to a professional program have great deal of freedom when it comes to choosing an undergraduate major, Pre-Professional Advising is provided to students separately from the Academic Advising provided by the department of a student’s declared major. Students planning to pursue a health profession work with specially-trained health professions advisors in one of two offices on campus, determined by the specific health profession being pursued. The PreMedical and PreDental Advising Office has information for students planning to apply to Medical, Dental, Veterinary, Optometry, and Podiatry programs. The Office for Academic & Pre-Professional Advising has information for students planning to apply to Nursing, Pharmacy, Physical Therapy, Occupational Therapy, Physician Assistant, Dental Hygiene, Medical & Research Technology, and other allied health programs. Students planning to apply to Law School, or who wish to pursue employment in law-related areas, work with the UMBC Department of Political Science, which coordinates the Pre-Law program.">
     <label for="Pre-Professional Programs">Pre-Professional Programs</label>
     </div>
     <div>
-    <input type="checkbox" id="Applied & Experiential Learning" class="clause-checkbox" value= "">
+        <input type="checkbox" id="Applied & Experiential Learning" class="clause-checkbox" value= "">
     <label for="Applied & Experiential Learning">Applied & Experiential Learning</label>
     </div>
     <div>
-    <input type="checkbox" id="Transfer Student Alliance" class="clause-checkbox" value= "">
+        <input type="checkbox" id="Transfer Student Alliance" class="clause-checkbox" value= "">
     <label for="Transfer Student Alliance">Transfer Student Alliance</label>
     </div>
     <div>
-    <input type="checkbox" id="First-Year Transfer Opportunities" class="clause-checkbox" value= "">
+        <input type="checkbox" id="First-Year Transfer Opportunities" class="clause-checkbox" value= "">
     <label for="First-Year Transfer Opportunities">First-Year Transfer Opportunities</label>
     </div>
     <div>
-    <input type="checkbox" id="CETI" class="clause-checkbox" value= "">
+        <input type="checkbox" id="CETI" class="clause-checkbox" value= "">
     <label for="CETI">CETI</label>
     </div>
     <div>
-    <input type="checkbox" id="COEIT Student Orgs" class="clause-checkbox" value= "">
+        <input type="checkbox" id="COEIT Student Orgs" class="clause-checkbox" value= "">
     <label for="COEIT Student Orgs">COEIT Student Orgs</label>
     </div>
     <div>
-    <input type="checkbox" id="Academic Resources" class="clause-checkbox" value= "">
+        <input type="checkbox" id="Academic Resources" class="clause-checkbox" value= "">
     <label for="Academic Resources">Academic Resources</label>
     </div>
     <div>
-    <input type="checkbox" id="Transferring Coursework" class="clause-checkbox" value= "">
+        <input type="checkbox" id="Transferring Coursework" class="clause-checkbox" value= "">
     <label for="Transferring Coursework">Transferring Coursework</label>
     </div>
     <div>
-    <input type="checkbox" id="Credit When it's Due" class="clause-checkbox" value= "">
+        <input type="checkbox" id="Credit When it's Due" class="clause-checkbox" value= "">
     <label for="Credit When it's Due">Credit When it's Due</label>
     </div>
     <div>
-    <input type="checkbox" id="Career & Goal Setting" class="clause-checkbox" value= "">
+        <input type="checkbox" id="Career & Goal Setting" class="clause-checkbox" value= "">
     <label for="Career & Goal Setting">Career & Goal Setting</label>
     </div>
     <div>
-    <input type="checkbox" id="Military and Veteran Students" class="clause-checkbox" value= "">
+        <input type="checkbox" id="Military and Veteran Students" class="clause-checkbox" value= "">
     <label for="Military and Veteran Students">Military and Veteran Students</label>
     </div>
     <div>
-    <input type="checkbox" id="ROTC" class="clause-checkbox" value= "">
+        <input type="checkbox" id="ROTC" class="clause-checkbox" value= "">
     <label for="ROTC">ROTC</label>
     </div>
     <div>
-    <input type="checkbox" id="Second BS info" class="clause-checkbox" value= "">
+        <input type="checkbox" id="Second BS info" class="clause-checkbox" value= "">
     <label for="Second BS info">Second BS info</label>
     </div>
     <div>
-    <input type="checkbox" id="Dual Major/Double Major" class="clause-checkbox" value= "">
+        <input type="checkbox" id="Dual Major/Double Major" class="clause-checkbox" value= "">
     <label for="Dual Major/Double Major">Dual Major/Double Major</label>
     </div>
     <div>
-    <input type="checkbox" id="The Honors College" class="clause-checkbox" value= "">
+        <input type="checkbox" id="The Honors College" class="clause-checkbox" value= "">
     <label for="The Honors College">The Honors College</label>
     </div>
     <div>
-    <input type="checkbox" id="SDS" class="clause-checkbox" value= "">
+        <input type="checkbox" id="SDS" class="clause-checkbox" value= "">
     <label for="SDS">SDS</label>
     </div>
     <div>
-    <input type="checkbox" id="Reslife" class="clause-checkbox" value= "">
+        <input type="checkbox" id="Reslife" class="clause-checkbox" value= "">
     <label for="Reslife">Reslife</label>
     </div>
     <div>
-    <input type="checkbox" id="IS vs. CMSC" class="clause-checkbox" value= "">
+        <input type="checkbox" id="IS vs. CMSC" class="clause-checkbox" value= "">
     <label for="IS vs. CMSC">IS vs. CMSC</label>
     </div>
             <button id="generate-btn">Generate Document</button>
