@@ -12,6 +12,11 @@
             margin: 0;
             padding: 20px;
         }
+        /*Code for dark mode*/
+        .dark mode{
+            background-color: #9bb0d1ff
+            color: green;
+        }
         /* Main container for the two panels */
         .advisor-container {
             display: flex;
@@ -64,6 +69,23 @@
         }
         #generate-btn:hover {
             background-color: #8a7620;
+        }
+        /*Stle for the Light/Dark mode button*/
+        #toggle-btn {
+            width: 100%;
+            padding: 15px;
+            background-color: #10c5c5ff; /* A darker gold for the button */
+            color: white;
+            border: 1px solid #ffc400;
+            font-size: 1em;
+            font-weight: bold;
+            cursor: pointer;
+            margin-top: 20px;
+            transition: background-color 0.3s ease;
+        }
+        #toggle-btn:hover
+        {
+            background-color: #3325f3ff;
         }
         /* Style for the output area */
         #output-content {
@@ -282,8 +304,9 @@ Explore the Occupational Outlook Handbook for specifics. We hope you become part
         <input type="checkbox" id="IS vs. CMSC" class="clause-checkbox" value= "How are Information Systems and Computer Science different? Information Systems (IS) and Computer Science (CMSC) both involve computer technology. Computer Science is the study of computers and computational systems. Unlike information systems, computer science deals mostly with software and software systems; this includes their theory, design, development, and application. Principal areas of study within Computer Science include artificial intelligence, computer systems and networks, security, database systems, human computer interaction, vision and graphics, numerical analysis, programming languages, software engineering, bioinformatics and theory of computing. Although knowing how to program is essential to the study of computer science, it is only one element of the field. Computer scientists design and analyze algorithms to solve programs and study the performance of computer hardware and software. The problems that computer scientists encounter range from the abstract-- determining what problems can be solved with computers and the complexity of the algorithms that solve them – to the tangible – designing applications that perform well on handheld devices, that are easy to use, and that uphold security measures. Information Systems, on the other hand, focuses on the entire system of information, knowledge, delivery and use, taking an external, human-based perspective on technology– its focus is on how technology can be implemented to serve the informational needs of people and organizations. This is why at UMBC we refer to Information Systems as the human side of computing. IS graduates from UMBC have opportunities to really make a difference—have an impact—on technologies that affect everyone from children to retirees. IS graduates enter various industries with more than just the technical skills of programming, network applications and design, operating systems, telecommunications, database application and design, and web development and design. They also leave UMBC with a strong business and management background. In fact, many graduates have gone on to start their own successful thriving businesses. UMBC Information Systems students also develop excellent human communication skills that can be used to interact with a variety of audiences with various backgrounds. These skills are not only key career talents but excellent life skills.">
     <label for="IS vs. CMSC">IS vs. CMSC</label>
     </div>
-            <button id="generate-btn">Generate Document</button>
+        <button id="generate-btn">Generate Document</button>
     </div>
+        <button id="toggle-light-button">toggle light/Dark mode</button>
     <div class="content-panel" id="generated-guide">
         <h2>GENERATED ADVISOR GUIDE</h2>
         <div id="output-content">
