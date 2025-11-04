@@ -148,6 +148,171 @@ Required Technology
 Starting Fall 2020, all students are required to follow the laptop requirement. Incoming students should follow Fall and Spring semester requirements each academic year. Current Laptop recommendations can be found here.">
         <label for= "Computer Science Overview">Computer Science Overview</label>
     </div>
+    <div>
+        <input type="checkbox" id= "Chemical Engineering Overview" class="clause-checkbox" value= "Chemical Engineering Overview Chemical and Biochemical Engineering The Department of Chemical and Biochemical Engineering offers an undergraduate program leading to a Bachelor of Science in Chemical Engineering. Chemical engineering students begin their studies by acquiring a good foundation in mathematics, physics and chemistry. Higher level courses cover the engineering, simulation and optimization of chemical processes, including the related economic principles. From creating new vaccines and antibiotics to cleaning up air and water pollution, chemical engineers develop manufacturing processes for a wide variety of applications, including food, pharmaceuticals, chemicals, biotechnology and environmental technology. Students have many opportunities to participate in faculty research. Recent student projects have explored the design of an antibody to target the protein that triggers Alzheimer's disease and the purification of a protein to control cell growth, with potential application for cancer treatment. Chemical engineering graduates are prepared for graduate study or immediate industrial employment in fields such as chemical processing, food processing, metallurgy, energy conversion, petroleum refining and pharmaceutical production. Recent graduates of the department have obtained employment as chemical engineers at W.R. Grace, DuPont, Corning, Exxon, Rohm and Haas, Merck, FMC and International Paper. ----- The B.S. in Chemical Engineering, accredited by the Accreditation Board for Engineering and Technology (ABET). All tracks lead to the B.S. in Chemical Engineering and require the same chemical engineering core classes, we offer three tracks allowing students to specialize in: The Traditional Track prepares students for graduate study or immediate industrial employment in such varied fields as chemical processing, food processing, metallurgy, energy conversion, petroleum refining and pharmaceutical production.The Biotechnology and Bioengineering Track integrates the life sciences into each year of the curriculum and is intended for students who are interested in working in the biotechnology industry, pursuing graduate work in biochemical or biomedical engineering or going to medical school.
+The Environmental Engineering and Sustainability Track stems from the traditional chemical engineering track and provides specialization in the application of basic chemical engineering principles in the field of environmental engineering such as cleaning up air and water pollution and managing chemical processes to minimize environmental impact.
+The primary differences are in the science courses and technical electives that are taken. Your advisor can help you decide which track is right for you.
+For a side-by-side comparison view the ENCH Undergraduate Curriculum chart.
+Chemical Engineering Gateway Requirements: Students are admitted to the chemical engineering program only when they pass all four of the following Gateway courses: ENES 101, MATH 152, CHEM 102, and ENCH 215 with a grade of at least two B’s and two C’s.
+* Enrolling in a gateway course at UMBC or a Chemical Engineering Department equivalent course at another institution is considered an attempt. Students must select a track to complete—Traditional, Biotechnology/Bioengineering or Environmental Engineering and Sustainability.
+Repeat Policy: Chemical Engineering majors are permitted two attempts in courses required for the major. They are considered registered for a course if they are enrolled after the end of the schedule adjustment period. A course in which the student receives a grade of “W” (Withdraw) is counted as an attempt. Please note that you will not be permitted a third attempt in required courses taken at UMBC or another institution. Students who have more than two attempts in any course required to progress in the major will not be permitted to major in Chemical Engineering. This policy is applicable to transfer students. CENG Technology Requirements The Chemical, Biochemical and Environmental Engineering Department requires all incoming students to have their own laptop. Additional information can be found on the Undergraduate Program Policies page, under the “Computer Requirements” section. Accelerated Program UMBC’s Accelerated Program makes it possible to double-count up to 12 credits towards both your undergraduate and graduate coursework.You’ll save money and time as you further your academic career. Students applying to the BSMS program are not required to take the GRE examination. Acceptance into the BSMS program does not bind you to completing a graduate degree at UMBC. Additional information on Chemical Engineering’s Accelerated Programs can be found here. View Testimonials from current chemical engineering students">
+        <label for= "Chemical Engineering Overview">Chemical Engineering Overview</label>
+    </div>
+    <div>
+        <input type="checkbox" id= "IS Overview" class="clause-checkbox" value = "Information Systems: The Bachelor of Science in Information Systems gives students an in-depth technical education in computer information systems, and allows students to specialize through the choice of elective courses such as computer networking and health care informatics. The IS program prepares students for all potential career positions in the IS field such as: Systems Analysis and Design, Computer Networking and Health Care Informatics. The IS department teaches students how to design, build and manage computer systems and to be knowledgeable users of them. Students take courses in disciplines such as mathematics and statistics, computer programming, management science, economics and technical writing as well as specific courses in computer information system analysis, design, construction and management. Information systems students are encouraged to participate in internships or co-ops. Students gain practical work experience from companies such as Comcast Cable, the U.S. Census Bureau and the Naval Research Labs. Through the Information Systems Council of Majors, students have opportunities to attend professional meetings of computer-related societies.
+-----------------------------------
+Information Systems Gateway: Before being allowed to take IS 410 and 450 (and then the rest of the IS 400-level core courses), a student must first complete the following gateway requirements:
+A grade of “C” or higher in:
+MATH 155 – Elementary Calculus and
+IS 147 – Introduction to Computer Programming
+And a grade of “B” or higher in:
+IS 300 – Management Information Systems and
+IS 310 – Software and Hardware Concepts
+What is Information Systems?
+The human side of computing.
+Information systems (IS) are everywhere, from the phone in your pocket to scientists studying the polar ice caps. At its core, IS focuses on the entire system of information, knowledge, delivery and use involved in computer technology.
+In our IS program, you will investigate the societal impact of technology, dealing with real and imminent challenges. With the help of our faculty members, you will study, design, develop, and evaluate information technologies to address the needs of a broad range of individuals and organizations.
+You will be able to leave UMBC with technical skills like programming, database management, and web design, as well as the business skills required to help you excel in your career.
+The information systems department offers undergraduate certificates in
+Cybersecurity Informatics Certificate
+Health IT Certificate
+Decision Making Support Certificate
+Network Administration Certificate
+Web Development Certificate
+Certificate in Auditing for Information System
+Research Opportunities
+UMBC is one of the few universities committed to undergraduate research, and the IS Department takes this mission seriously. For students interested in pursuing research, we have five main research areas: Artificial Intelligence and Knowledge Management, Data Science, Health Informatics, Human-Centered Computing, and Software Engineering.
+Check out our Undergraduate Research Opportunities.
+Special Opportunities for Information Systems Students
+UMBC has the largest cooperative education program in Maryland. Information Systems students participate in this program in greater numbers than any other major on campus. The department encourages all students to participate in co-op or internship programs. Students have found the experience invaluable in helping them understand class concepts and in getting a job after graduation.  All co-op and many internship programs are paid positions.  Many may also be used toward college credits.
+The IS Department is excited to share a new mentoring program for new IS transfer students! Please check out our flyer, and use the information provided to contact us if you're interested in learning more.
+Why IS @ UMBC?
+IS Student Outlook
+Our faculty members are engaged in state-of-the-art research that has resulted in multiple new external grants in areas such as Health IT, Cybersecurity, Big Data/Data Science, Human Centered Computing, and Artificial Intelligence. You can view more of our research projects here.
+A career in information systems means you can choose from a variety of job types and know you will be in demand. According to the U.S. Bureau Of Labor Statistics, jobs in computers and information technology are projected to grow 12% between now and 2028, well above the average for all occupations. In 2020, the median annual wage for computers and information technology jobs was $86,320, more than twice the national average.
+Certain subsets of the technology industry, like cybersecurity and data science, have job growth and average salary numbers much higher than those above.
+Explore the Occupational Outlook Handbook for specifics. We hope you become part of the IS department culture of diverse, welcoming, and inclusive excellence. We look forward to your successful and fruitful learning experiences in the department -------------------------------------- ">
+        <label for= "IS Overview">IS Overview </label>
+    </div>
+    <div>
+        <input type="checkbox" id="Mechanical Engineering Overview" class="clause-checkbox" value= "The Department of Mechanical Engineering focuses on the design and production of energy-producing systems and on mechanical devices or mechanisms. These systems and mechanisms are applied to fields ranging from biology to transport systems to manufacturing. The mechanical engineering curriculum at UMBC provides students with thorough training in mathematics, physical sciences, engineering sciences and engineering design. Mechanical engineering students gain a broad education by completing a cross section of courses in the arts and humanities, social sciences, and language and culture. Students are exposed to engineering design by a primary sequence of four required core design courses that are distributed across the curriculum from the freshman through the senior years, plus a design elective. Further design experience is gained in most of the 300 level and above engineering science courses, which have design projects embedded in them. The design courses contain technical material that is appropriate to the level of the course in the curriculum and provide opportunities to practice oral and written communication. An accelerated B.S./M.S. program is offered for undergraduate students who choose to take graduate-level classes in their senior year. Mechanical engineering students participate in activities and professional societies to strengthen their connections to the discipline. A full list of Mechanical Engineering organizations can be found here. Mechanical Engineering Gateway courses: MATH 152-B required, ENES 101-B required, ENME 110-B required Students who are accepted into the University having already met the Gateway requirements for their major will remain a Pre-Major until all transcripts with final grades have been received, posted by the Registrar’s Office, and processed by the College of Engineering and Information Technology. Typically, this will happen after the first semester of enrollment at UMBC.Repeat Policy: Mechanical Engineering majors are permitted two attempts in courses required for the major. They are considered registered for a course if they are enrolled after the end of the schedule adjustment period. A course in which the student receives a grade of “W” (Withdraw) is counted as an attempt. Please note that you will not be permitted a third attempt in required courses taken at UMBC or another institution. Students who have more than two attempts in any course required to progress in the major will not be permitted to major in Mechanical Engineering. This policy is applicable to transfer students Curriculum: Mechanical engineering students begin their studies by acquiring a solid foundation in mathematics, physics and design. Higher-level courses cover the fundamental principles in the areas of solid mechanics, thermo fluids and design and manufacturing systems. Laboratory and elective courses give students the opportunity to test these principles and apply them individually and as teams in projects that involve design challenges from the material processing, energy conversion and aerospace industries, among others. You can find the recommended four-year academic pathway here, as well as tools to help you create your individualized degree plan. Course Descriptions A detailed description of the Mechanical Engineering courses can be found at  UMBC Undergraduate Catalog (select the most recent undergraduate catalog). Select the course descriptions tab or browse for Mechanical Engineering courses (ENME) under E. Click here to see Annual Course Offerings Capstone Design Experience All Mechanical Engineering students take courses in Engineering Design as part of the core curriculum.  The ME Design Experience culminates in a capstone design project, completed as part of a team and designed to provide the students with the type of work they will be performing as practicing engineers.  The projects require hands-on participation in the design process and students learn the progression from identification of customer needs to concept generation and the entire design-build-test cycle. Course topics include system engineering, project management, engineering economics, team dynamics, and legal and ethical responsibility of today’s engineers. Formal technical documentation and oral presentations are emphasized as critical professional skills.See past senior capstone projects here! Laptop Requirements As of Fall 2020, the Department of Mechanical Engineering has put out Laptop Recommendations that are updated regularly. Students may be able to utilize financial aid to cover the cost of a required laptop. Entrepreneurship Interested students may also pursue a minor in Entrepreneurship through the Alex Brown Center for Entrepreneurship by taking a combination of entrepreneurship courses and Mechanical Engineering courses that include entrepreneurial skills development. If you have questions, please contact the Mechanical Engineering Department">
+        <label for= "Mechnaical Engineering Overview">Mechnaical Engineering Overview</label>
+    </div>
+    <div>
+        <input type="checkbox" id="COEIT Databook" class="clause-checkbox" value= "College of Engineering and Information Technology Undergraduate Student Databook (Fall 2022) Information below reflects class profiles for COEIT undergraduate students. Additional information and data, including the Freshman Class Profile and Student Body Profile are available from UMBC Undergraduate Admissions. Admissions + Enrollment 4,056 Enrollment Full-time: 3 579 (88.2%) Part-time: 477 (11.8%) 913 Freshmen 891 New Freshmen 275 New Transfer Diversity (including gender + ethnicity) Gender/Sex Female: 961 (23.7%) Male: 3,095 (76.3%) Race/Ethnicity 2 or More: 207 (5.1%) Asian: 1,078 (26.6%) Underrepresented: 1,171 (28.9%) American Indian: 4 Black: 899 Hawaiian/Pacific Islander: 2 Hispanic: 266 White: 1,337 (33.0%) Other/Unspecified: 61 (1.5%) International: 202 (5.0%) Outcomes 869 bachelor’s degrees awarded. 90% of COEIT Bachelor degree recipients reported firm plans of being employed and/or heading to graduate school within six months of graduation. 92% of employed undergraduate degree recipients are in positions directly related to their career goals. 55% of employed undergraduate degree recipients previously interned or worked for that organization while at UMBC. 74% of UMBC’s COEIT seniors engaged in applied learning, such as internships, research, service-learning, study abroad, student teaching and leadership positions while at UMBC. $70,000-$74,999 median starting salary bachelor’s degree full-time. Additional data, including admissions and enrollment, are available from the Institutional Research and Decision Support Databook and website. Additional outcomes and success stories are shared on the UMBC Career Center website. Version: Begin Term Census Note: Enrollments include enrollment counts for Primary Plan only. Note: Due to rounding, percentages may not always appear to add up to 100%. Transfer Admissions Admissions Information: Deadlines for Transfer Student">
+    <label for= "COEIT Databook">COEIT Databook</label>
+    </div>
+    <div>
+        <input type="checkbox" id="Transfer Admissions" class="clause-checkbox" value= "Spring Deadlines Fall Deadlines Priority Deadline: October 15th Priority Deadline: March 1st Regular Deadline: December 1st Regular Deadline: June 1st Honor’s College (Priority) October 15th Honor’s College (Priority): March 1st Honor’s College (Regular) December 1st Honor’s College (Regular) June 1st. UMBC is a member of teh Common Application. To apply for admisson, you must submit the completed Common Applicaton, a $75 application fee, and official transcripts from all previously attended institutions. The Admissions Committee evaluates transfer applicants on the basis of their academic record at previous institutions. Cumulative grade point average as calculated by UMBC, academic trends, strength of curriculum, and performance in courses related to the intended area of study are considered. Competitive applicants typically present an overall cumulative grade point average of 3.0 or higher in all college level coursework. Applicants can expect a decision notification 3-4 weeks from the time a completed application is received by the Office of Undergraduate Admissions.Once you have completed your application you will be assigned a student ID number. You can use this information to search for scholarships in Scholarship Retriever. Undergraduate Admissions Upcoming Events Transfer Central can show how courses will transfer in the context of our degree requirements, including your anticipated major(s). You can select up to three majors at a time before entering your coursework. Click view details to see what credits are transferable and how they apply toward general education requirements and major requirements. Community College Partnerships - Choose your community college below to explore opportunities available to you. How to Apply for Transfer Admission Complete the Common Application in its entirety. Apply Online Complete the residency questions. This information is located in the Member Questions section for applicants seeking in-state residency for tuition purposes. Submit the Common Application and $75 non-refundable application fee. Prior to the deadline, make sure that there are green “complete” checkmarks under the application in your “My Colleges” dashboard under UMBC, and click submit. UMBC does not require submissions of an Academic Evaluator, College Report, Secondary School Final Report, or Midterm Report to complete the transfer application. Submit official transcripts. Official transcripts from each college or university you have attended are required as part of your transfer application. It is the applicant’s responsibility to request transcripts from each of their prior colleges. The transcript should be sent directly from the institution to UMBC electronically at admissions@umbc.edu or by mail to the address below after the application is submitted If you have any questions that you’d like to discuss with an admissions counselor, you can schedule an appointment by visiting the following link, https://undergraduate.umbc.edu/counselors/ UMBC Tuition Information">
+        <label for="Transfer Admissions">Transfer Admissions</label>
+    </div>
+    <div>
+    <input type="checkbox" id="Financial Aid" class="clause-checkbox" value= "Financial Aid
+UMBC offers a range of financial aid and payment options so that all students may benefit from a UMBC education. Students may apply for need-based financial aid using the Free Application for Federal Student Aid (FAFSA). Students may also be considered for general merit scholarships by meeting priority admissions application deadlines. For more information, please visit our Financial Aid and Scholarships Website.
+Submit/update your Free Application for Federal Student Aid (FAFSA) online or via the myStudentAid mobile app. 
+Be sure to add UMBC/school code 002105
+Need help submitting the FAFSA? Get help directly from the source.
+-Financial aid eligibility is evaluated after university admission. Students are notified via email when their financial aid offer is available to view in myUMBC.
+Estimate your out-of-pocket expenses using our Cost Calculator tool.
+Apply for Scholarships:
+UMBC offers both need and merit-based aid for prospective freshmen and transfer students. Learn more about the scholarship opportunities available at UMBC here:
+Income Transfer Student Scholarships
+UMBC Scholarship Retriever 
+Outside Scholarships
+Scholars Programs
+Admissions Application (Common App) and college transcripts must be received by the priority deadline in order to be guaranteed consideration for merit-based scholarships.
+Our staff is available Monday-Friday 8:30AM-4:30PM. Feel free to contact our office with any questions you might have! Be sure to visit the rest of our website for more information that may meet your specific needs.
+Scholars Programs:
+UMBC’s Cyber Scholars Program is geared towards preparing the next generation of cybersecurity professionals in an increasingly digital age.  The program was launched through a generous grant from the Northrop Grumman Foundation and in partnership with the Center for Women in Technology (CWIT). Transfer Student Priority Deadline: March 1 for fall applicants and January 15 for spring applicants.
+T-SITE Scholars - The Transfer Scholars in Information Technology and Engineering  (T-SITE) program began in March of 2012. Funded by a second award from the National Science Foundation (NSF), this need-based scholarship supports new transfer students with scholarships of up to $8,000 per year based on financial eligibility on the FAFSA. Transfer Scholars also receive academic support through a variety of CWIT programs and services.
+Scholarship Details:
+Scholarships of up to $8,000 per year based on UMBC Financial Aid Office review
+Transfer Scholars must maintain a 3.0 GPA at UMBC.
+Required participation in CWIT community events focused on academic, professional, and leadership development.
+Women and underrepresented minorities are strongly encouraged to apply.
+T-SITE Scholar Experience:  
+T-SITE Scholars are part of the larger CWIT community of Scholars and Affiliates.  Academic success and professional development are achieved through a number of program elements. Members of the CWIT community are encouraged to live in the CWIT Living Learning Community in the residence halls.
+All T-SITE Scholars:
+Are assigned a faculty and peer mentor in their major;
+Explore career options, develop lifelong career management skills, and identify internships, and post-graduation jobs through professional development events and an assigned Industry mentor;
+Participate in a seminar specifically designed for transfer students;
+Meet regularly with a CWIT professional advisor to set goals and track individual progress;
+Develop leadership skills through involvement in student organizations and K-12 outreach.
+T-SITE Application for Fall cohort (Due March 1)">
+    <label for="Financial Aid">Financial Aid</label>
+    </div>
+    <div>
+    <input type="checkbox" id="Pre-Professional Programs" class="clause-checkbox" value= "">
+    <label for="Pre-Professional Programs">Pre-Professional Programs</label>
+    </div>
+    <div>
+    <input type="checkbox" id="Applied & Experiential Learning" class="clause-checkbox" value= "">
+    <label for="Applied & Experiential Learning">Applied & Experiential Learning</label>
+    </div>
+    <div>
+    <input type="checkbox" id="Transfer Student Alliance" class="clause-checkbox" value= "">
+    <label for="Transfer Student Alliance">Transfer Student Alliance</label>
+    </div>
+    <div>
+    <input type="checkbox" id="First-Year Transfer Opportunities" class="clause-checkbox" value= "">
+    <label for="First-Year Transfer Opportunities">First-Year Transfer Opportunities</label>
+    </div>
+    <div>
+    <input type="checkbox" id="CETI" class="clause-checkbox" value= "">
+    <label for="CETI">CETI</label>
+    </div>
+    <div>
+    <input type="checkbox" id="COEIT Student Orgs" class="clause-checkbox" value= "">
+    <label for="COEIT Student Orgs">COEIT Student Orgs</label>
+    </div>
+    <div>
+    <input type="checkbox" id="Academic Resources" class="clause-checkbox" value= "">
+    <label for="Academic Resources">Academic Resources</label>
+    </div>
+    <div>
+    <input type="checkbox" id="Transferring Coursework" class="clause-checkbox" value= "">
+    <label for="Transferring Coursework">Transferring Coursework</label>
+    </div>
+    <div>
+    <input type="checkbox" id="Credit When it's Due" class="clause-checkbox" value= "">
+    <label for="Credit When it's Due">Credit When it's Due</label>
+    </div>
+    <div>
+    <input type="checkbox" id="Career & Goal Setting" class="clause-checkbox" value= "">
+    <label for="Career & Goal Setting">Career & Goal Setting</label>
+    </div>
+    <div>
+    <input type="checkbox" id="Military and Veteran Students" class="clause-checkbox" value= "">
+    <label for="Military and Veteran Students">Military and Veteran Students</label>
+    </div>
+    <div>
+    <input type="checkbox" id="ROTC" class="clause-checkbox" value= "">
+    <label for="ROTC">ROTC</label>
+    </div>
+    <div>
+    <input type="checkbox" id="Second BS info" class="clause-checkbox" value= "">
+    <label for="Second BS info">Second BS info</label>
+    </div>
+    <div>
+    <input type="checkbox" id="Dual Major/Double Major" class="clause-checkbox" value= "">
+    <label for="Dual Major/Double Major">Dual Major/Double Major</label>
+    </div>
+    <div>
+    <input type="checkbox" id="The Honors College" class="clause-checkbox" value= "">
+    <label for="The Honors College">The Honors College</label>
+    </div>
+    <div>
+    <input type="checkbox" id="SDS" class="clause-checkbox" value= "">
+    <label for="SDS">SDS</label>
+    </div>
+    <div>
+    <input type="checkbox" id="Reslife" class="clause-checkbox" value= "">
+    <label for="Reslife">Reslife</label>
+    </div>
+    <div>
+    <input type="checkbox" id="IS vs. CMSC" class="clause-checkbox" value= "">
+    <label for="IS vs. CMSC">IS vs. CMSC</label>
+    </div>
             <button id="generate-btn">Generate Document</button>
     </div>
     <div class="content-panel" id="generated-guide">
