@@ -2,10 +2,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Get references to the button, output textarea, and all checkboxes
     const generateBtn = document.getElementById('generate-btn');
-
-    //Get reference to light/Dark Mode Button
-    const toggleBtn = document.getElementById('toggle-light-button');
     
+    // --- FIX 1 & 2 ---
+    // 1. Use the correct ID: 'output-content'
+    // 2. Use this variable name (outputDiv) consistently
     const outputDiv = document.getElementById('output-content'); 
     
     const checkboxes = document.querySelectorAll('.clause-checkbox');
@@ -35,10 +35,4 @@ document.addEventListener('DOMContentLoaded', () => {
             outputDiv.innerHTML = finalText;
         }
     });
-    /* Code for light dark mode toggle button
-    function lightDark(){
-        var element = document.body;
-        element.classList.toggle("toggle-light-button")
-    }
-    */
 });
