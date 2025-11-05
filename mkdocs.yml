@@ -1,20 +1,15 @@
-site_name: UMBC Pre-Transfer Advising
-
+site_name: CMSC Copy-Paste Document
 theme:
   name: material
-  palette:
-    # This sets the dark mode background
-    scheme: slate
-    # This sets the primary color (like the nav bar) to black
-    primary: black
-    # This sets the accent color to yellow/gold to match your design
-    accent: yellow
-  features:
-    # This creates the tab-like navigation bar from your mockup
-    - navigation.tabs
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
 
-nav:
-  - HOME: index.md 
-
-extra_javascript:
-  - js/generator.js
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
