@@ -1,47 +1,68 @@
+// This file is generator.js
+// The line "generator.js" that was here before the word "document" was the error.
+
 document.addEventListener('DOMContentLoaded', () => {
 
-    // Get references to the button, output textarea, and all checkboxes
+    // Get references to the buttons, output div, and all checkboxes
     const generateBtn = document.getElementById('generate-btn');
-
-    //Get reference to light/Dark Mode Button
-    const toggleBtn = document.getElementById('toggle-light-button');
-    
-    // --- FIX 1 & 2 ---
-    // 1. Use the correct ID: 'output-content'
-    // 2. Use this variable name (outputDiv) consistently
-    const outputDiv = document.getElementById('output-content'); 
-    
+    const outputDiv = document.getElementById('output-content');
     const checkboxes = document.querySelectorAll('.clause-checkbox');
+    const clearBtn = document.getElementById('clear-btn');
+    const downloadBtn = document.getElementById('download-btn');
 
-    // Add a 'click' event listener to the button
+    // Add a 'click' event listener to the clear button
+    clearBtn.addEventListener('click', () => {
+        // Loop through all checkboxes
+        checkboxes.forEach(checkbox => {
+            // Set their 'checked' property to false
+            checkbox.checked = false;
+        });
+        
+        // Also clear the output div
+        outputDiv.innerHTML = '<p>Select topics from the left panel and click "Generate Document" to create advisor guide content.</p>';
+    });
+
+
+    // Add a 'click' event listener to the generate button
     generateBtn.addEventListener('click', () => {
         
-        // Start with an empty array to hold the selected clauses
         let selectedClauses = [];
 
-        // Loop through all the checkboxes
         checkboxes.forEach(checkbox => {
-            // If a checkbox is checked, add its 'value' attribute to our array
             if (checkbox.checked) {
-                selectedClauses.push(`<p>${checkbox.value}</p>`);
+                selectedClauses.push(checkbox.value);
             }
         });
 
-        // If no clauses were selected, show the default message
         if (selectedClauses.length === 0) {
-            // Use the correct variable name: outputDiv
             outputDiv.innerHTML = '<p>Select topics from the left panel and click "Generate Document" to create advisor guide content.</p>';
         } else {
-            // Otherwise, join the paragraphs and set them as the HTML of the output div
-            const finalText = selectedClauses.join('');
-            // Use the correct variable name: outputDiv
+            const finalText = selectedClauses.join('<br><hr><br>'); // Add a line and space between sections
             outputDiv.innerHTML = finalText;
         }
     });
-    /* Code for light dark mode toggle button
-    function lightDark(){
-        var element = document.body;
-        element.classList.toggle("toggle-light-button")
-    }
-    */
+
+    downloadBtn.addEventListener('click', () => {
+        const contentToDownload = outputDiv.innerHTML;
+        const defaultMessage = '<p>Select topics from the left panel and click "Generate Document" to create advisor guide content.</p>';
+
+        if (contentToDownload === defaultMessage || contentToDownload.trim() === "") {
+            alert('Please generate a document before downloading!');
+            return; 
+        }
+
+        const fullHtml = `<!DOCTYPE html><html><head><title>UMBC Advisor Guide</title></head><body>${contentToDownload}</body></html>`;
+        
+        const blob = new Blob([fullHtml], { type: 'application/msword' });
+
+        const tempLink = document.createElement('a');
+        tempLink.href = URL.createObjectURL(blob);
+        
+        tempLink.download = 'UMBC_Advisor_Guide.doc';
+        
+        document.body.appendChild(tempLink);
+        tempLink.click();
+        document.body.removeChild(tempLink);
+        URL.revokeObjectURL(tempLink.href);
+    });
 });

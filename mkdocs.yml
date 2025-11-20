@@ -7,7 +7,14 @@ theme:
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
-
+  palette:
+    # This sets the dark mode background
+    scheme: slate
+    # This sets the primary color to black
+    primary: black
+    # This sets the accent color to yellow/gold for highlights
+    accent: yellow
+  features:  
     # Palette toggle for dark mode
     - scheme: slate
       toggle:
