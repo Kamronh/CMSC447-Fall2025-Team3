@@ -1,22 +1,35 @@
 site_name: CMSC Copy-Paste Document
+
 theme:
   name: material
-  palette: 
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
+  
+  # 1. Features list (tabs, etc.)
+  features:
+    - navigation.tabs
+
+  # 2. Palette: A list of two schemes (Light and Dark)
   palette:
-    # This sets the dark mode background
-    scheme: slate
-    # This sets the primary color to black
-    primary: black
-    # This sets the accent color to yellow/gold for highlights
-    accent: yellow
-  features:  
-    # Palette toggle for dark mode
+    # Scheme 1: Light Mode (default)
+    - scheme: default
+      primary: black
+      accent: yellow
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Scheme 2: Dark Mode
     - scheme: slate
+      primary: black
+      accent: yellow
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+# 3. Disable Search (Plural 'plugins')
+plugins: [] 
+
+nav:
+  - HOME: index.md 
+
+extra_javascript:
+  - js/generator.js
